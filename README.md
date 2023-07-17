@@ -10,12 +10,12 @@
 </div>
 
 ## 자기소개
-> 안녕하세요 저는 지금 현재 고등학교 진학을 준비하고 있는 나유호라고 합니다!
+> 안녕하세요 저는 지금 현재 송악고등학교에 재학중인 나유호 라고 합니다
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoomin1122&show_icons=true&theme=radical)
 
 ## 주로 뭐해?
-> 주로 Python, html, css를 하며, 지금 현재 연습중인것은 C, JavaScript를 해볼려고 합니다!
+> 주로 Python, html, css, php를 하며, 지금 현재 연습중인것은 C, JavaScript를 해볼려고 합니다!
 
 ## 왜 코딩해?
 > 컴퓨터가 좋아서!
