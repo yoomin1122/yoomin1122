@@ -12,8 +12,8 @@
 ## 자기소개
 > 안녕하세요 저는 지금 현재 송악고등학교에 재학중인 나유호 라고 합니다
 
-> 송악고등학교 코딩동아리 1 부원 (2023 ~ 2024)
-> 송악고등학교 코드팩토리(소프트웨어동아리) (2024 ~ 2025)
+> 송악고등학교 코딩동아리 1 부원 (2023 ~ 2024)      
+> 송악고등학교 코드팩토리(소프트웨어동아리) (2024 ~ 2025)     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoomin1122&show_icons=true&theme=radical)
 
 ## 주로 뭐해?
