@@ -17,10 +17,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoomin1122&show_icons=true&theme=radical)
 
 ## 주로 뭐해?
-> 주로 Python, html, css, php를 하며, 지금 현재 연습중인것은 C, JavaScript를 해볼려고 합니다!
+> 주 사용 언어로 PYTHON을 사용하며, HTML/CSS/JS도 다룰 줄 알고 있습니다
+> 현재 C, JAVA 언어에 대해 공부중입니다
 
-## 왜 코딩해?
-> 컴퓨터가 좋아서!
+## 목표
+> 최선을 다하는 사람이 되어보고 싶습니다!
 
 
 
